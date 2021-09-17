@@ -1,9 +1,12 @@
 Hola, Mi nombre es Adrian Vega
 
+Fui futbolista por algun tiempo pero ahora quiero dedicarme a la programacion
+
+Estudie Gerencia Informatica en la universidad pedagogica de El Salvador
+
 Trabaje un tiempo en galaxia en la implementacion de sistemas
 
 Tambien implemente un sistema recientemente en una agroferreteria
 
 Pero sinceramente me interesa mas el tema de la programacion
 
-Agregando un nuevo cambio mas a la historia
