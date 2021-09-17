@@ -1,5 +1,5 @@
 Esta es mi historia
 
-Soy Adrian Antonio Vega Torres
+Soy Adrian Antonio Vega Torres, tengo 29 años
 
-Y estoy cursando el programa de platzi para backend con php
+Y estoy cursando el programa de platzi para backend con php y el curso de git y github
