@@ -6,3 +6,6 @@ Y estoy cursando el programa de platzi para backend con php
 y el curso de git y github
 
 Tengo mucho por aprender asi que aca estamos practicando
+
+Inicialmente siempre quise ser depertista, paso el tiempo y mi
+segundo objetivo es la rama de la tecnología
