@@ -5,3 +5,5 @@ Fui futbolista por algun tiempo pero ahora quiero dedicarme a la programacion
 Estudie Gerencia Informatica en la universidad pedagogica de El Salvador
 
 Pero practicamente no he ejercido mi profesion
+
+Trabaje un tiempo en galaxia en la implementacion de sistemas
