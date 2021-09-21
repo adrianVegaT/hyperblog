@@ -1,5 +1,6 @@
 body
 {
+    background-color: #1e1f24;
     text-align: center;
     font-family: Arial;
     color: rgb(59, 58, 58);
@@ -9,13 +10,17 @@ body
 
 #container
 {
-    border: 2px solid black;
+    
     width: 70%;
     text-align: left;
     padding: 1em;
     margin: 0 auto;
 }
-
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 
 #parrafo1
 {
@@ -50,4 +55,10 @@ body
     font-weight: normal;
     font-size: 0.8em;
 
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
